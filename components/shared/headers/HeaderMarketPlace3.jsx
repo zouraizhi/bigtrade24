@@ -57,7 +57,7 @@ class HeaderMarketPlace3 extends Component {
 
                             <div style={{ marginTop:5, width: '40%', flexDirection: 'row' }}>
                                 <i style={{ color: 'white', fontSize: 16, marginRight: 5 }} className="icon-envelope"></i>
-                                <span style={{ color: 'white', fontSize: 14, }}>support@Junkiri.com</span>
+                                <span style={{ color: 'white', fontSize: 14, }}>support@asklol.com</span>
 
                             </div>
 

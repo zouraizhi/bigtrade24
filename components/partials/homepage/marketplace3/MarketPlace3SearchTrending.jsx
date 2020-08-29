@@ -6,22 +6,22 @@ const { TabPane } = Tabs;
 class MarketPlace3SearchTrending extends Component {
     render() {
         const trendingCategories = [
-            { imagePath: '/static/img/categories/home-5/1.jpg', text: '#television' },
-            { imagePath: '/static/img/categories/home-5/2.jpg', text: '#camera' },
-            { imagePath: '/static/img/categories/home-5/3.jpg', text: '#watch' },
-            { imagePath: '/static/img/categories/home-5/4.jpg', text: '#chair' },
-            { imagePath: '/static/img/categories/home-5/5.jpg', text: '#sneaker' },
-            { imagePath: '/static/img/categories/home-5/6.jpg', text: '#xbox' },
-            { imagePath: '/static/img/categories/home-5/7.jpg', text: '#gopro' },
-            { imagePath: '/static/img/categories/home-5/8.jpg', text: '#lipstick' },
-            { imagePath: '/static/img/categories/home-5/9.jpg', text: '#phone' },
-            { imagePath: '/static/img/categories/home-5/10.jpg', text: '#laptop' },
-            { imagePath: '/static/img/categories/home-5/11.jpg', text: '#speaker' },
-            { imagePath: '/static/img/categories/home-5/12.jpg', text: '#book' },
-            { imagePath: '/static/img/categories/home-5/13.jpg', text: '#blender' },
-            { imagePath: '/static/img/categories/home-5/14.jpg', text: '#bag' },
-            { imagePath: '/static/img/categories/home-5/15.jpg', text: '#smartphone' },
-            { imagePath: '/static/img/categories/home-5/16.jpg', text: '#camping' },
+            { imagePath: '/static/img/categories/home-5/category1.png', text: '#television' },
+            { imagePath: '/static/img/categories/home-5/category1.png', text: '#camera' },
+            { imagePath: '/static/img/categories/home-5/category1.png', text: '#watch' },
+            { imagePath: '/static/img/categories/home-5/category1.png', text: '#chair' },
+            { imagePath: '/static/img/categories/home-5/category1.png', text: '#sneaker' },
+            // { imagePath: '/static/img/categories/home-5/6.jpg', text: '#xbox' },
+            // { imagePath: '/static/img/categories/home-5/7.jpg', text: '#gopro' },
+            // { imagePath: '/static/img/categories/home-5/8.jpg', text: '#lipstick' },
+            // { imagePath: '/static/img/categories/home-5/9.jpg', text: '#phone' },
+            // { imagePath: '/static/img/categories/home-5/10.jpg', text: '#laptop' },
+            // { imagePath: '/static/img/categories/home-5/11.jpg', text: '#speaker' },
+            // { imagePath: '/static/img/categories/home-5/12.jpg', text: '#book' },
+            // { imagePath: '/static/img/categories/home-5/13.jpg', text: '#blender' },
+            // { imagePath: '/static/img/categories/home-5/14.jpg', text: '#bag' },
+            // { imagePath: '/static/img/categories/home-5/15.jpg', text: '#smartphone' },
+            // { imagePath: '/static/img/categories/home-5/16.jpg', text: '#camping' },
         ];
         return (
             <div style={{marginTop:-20}} className="ps-search-trending">
