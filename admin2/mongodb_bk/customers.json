@@ -1,0 +1,1044 @@
+{ 
+    "_id" : ObjectId("5b349d5cebfe413aade78585"), 
+    "date_created" : ISODate("2018-06-28T08:33:32.141+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(3), 
+    "note" : "", 
+    "email" : "minhtruong315@gmail.com", 
+    "mobile" : "988027072", 
+    "full_name" : "Truong Minh", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+        {
+            "id" : ObjectId("5b349d5cebfe413aade78584"), 
+            "address1" : "Da Nang", 
+            "address2" : "", 
+            "city" : "Da Nang", 
+            "country" : "VIETNAM", 
+            "state" : "Đà Nẵng", 
+            "phone" : "", 
+            "postal_code" : "550000", 
+            "full_name" : "Truong Minh", 
+            "company" : "", 
+            "tax_number" : "", 
+            "coordinates" : {
+                "latitude" : "", 
+                "longitude" : ""
+            }, 
+            "details" : null, 
+            "default_billing" : false, 
+            "default_shipping" : false
+        }
+    ], 
+    "browser" : {
+        "ip" : "::1", 
+        "user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+    }
+}
+{ 
+    "_id" : ObjectId("5b349f8c91555247a1d9ca35"), 
+    "date_created" : ISODate("2018-06-28T08:42:51.717+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "abc123@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "test", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$Kr6GbQK/YLV1IsrP4BZ0Zubhgn5gYTEx.G6tbhfLv5t1s8Vq3Oz4i"
+}
+{ 
+    "_id" : ObjectId("5b34a06691555247a1d9ca39"), 
+    "date_created" : ISODate("2018-06-28T08:46:30.553+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(1), 
+    "note" : "", 
+    "email" : "abc@gmail.com", 
+    "mobile" : "988027072", 
+    "full_name" : "Truong Minh", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+        {
+            "id" : ObjectId("5b34a06691555247a1d9ca38"), 
+            "address1" : "Da Nang", 
+            "address2" : "", 
+            "city" : "Da Nang", 
+            "country" : "VIETNAM", 
+            "state" : "Đà Nẵng", 
+            "phone" : "", 
+            "postal_code" : "550000", 
+            "full_name" : "Truong Minh", 
+            "company" : "", 
+            "tax_number" : "", 
+            "coordinates" : {
+                "latitude" : "", 
+                "longitude" : ""
+            }, 
+            "details" : null, 
+            "default_billing" : false, 
+            "default_shipping" : false
+        }
+    ], 
+    "browser" : {
+        "ip" : "::1", 
+        "user_agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"
+    }
+}
+{ 
+    "_id" : ObjectId("5b34a30791555247a1d9ca3a"), 
+    "date_created" : ISODate("2018-06-28T08:57:43.539+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(3), 
+    "note" : "", 
+    "email" : "aaa@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "Truong Aaa Nguyen", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$VmFLFel2jZ90wngDDgF0j.VFnhxdZ8yYB2AvAUVAeFhEv6V0EPOyK"
+}
+{ 
+    "_id" : ObjectId("5b35ac7b31859b2a9114979e"), 
+    "date_created" : ISODate("2018-06-29T03:50:18.832+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "minh@mstore.io", 
+    "mobile" : "", 
+    "full_name" : "Minh Pham", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$90Uhm4QH7Z.CEHGyyDfUC.oIKBoGUheDkRBLZfaeNu.ZXm9xb0INi"
+}
+{ 
+    "_id" : ObjectId("5b35bce78b5d8a6b357f7f9a"), 
+    "date_created" : ISODate("2018-06-29T05:00:23.621+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(2), 
+    "note" : "", 
+    "email" : "luyxtran264@yahoo.com.vn", 
+    "mobile" : "", 
+    "full_name" : "Đăng Trần", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+        {
+            "id" : ObjectId("5b35bce78b5d8a6b357f7f99"), 
+            "address1" : "123 sda", 
+            "address2" : "", 
+            "city" : "Dsadasd", 
+            "country" : "AF", 
+            "state" : "Dsadsa", 
+            "phone" : "2312321123", 
+            "postal_code" : "12321", 
+            "full_name" : "Đăng Trần", 
+            "company" : "", 
+            "tax_number" : "", 
+            "coordinates" : {
+                "latitude" : "", 
+                "longitude" : ""
+            }, 
+            "details" : null, 
+            "default_billing" : false, 
+            "default_shipping" : false
+        }
+    ], 
+    "browser" : {
+        "ip" : "::1", 
+        "user_agent" : "Expo/2.6.7.1015752 CFNetwork/901.1 Darwin/18.0.0"
+    }
+}
+{ 
+    "_id" : ObjectId("5b3631fcdcce6849afd852f3"), 
+    "date_created" : ISODate("2018-06-29T13:19:56.895+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "email" : "itminhtruong91@gmail.com", 
+    "full_name" : "Minh Trường", 
+    "socialId" : "1461928983872429", 
+    "socialType" : "facebook"
+}
+{ 
+    "_id" : ObjectId("5b3650de98be42e636a71081"), 
+    "date_created" : ISODate("2018-06-29T15:31:42.588+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(4), 
+    "email" : "minhtruong315@gmail.com", 
+    "full_name" : "Truong Minh", 
+    "socialId" : "113402431678455778912", 
+    "socialType" : "google"
+}
+{ 
+    "_id" : ObjectId("5b399374279d67131606719a"), 
+    "date_created" : ISODate("2018-07-02T02:52:36.744+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(7), 
+    "email" : "luyxtran264@yahoo.com.vn", 
+    "full_name" : "Đăng Trần", 
+    "socialId" : "2020318034649371", 
+    "socialType" : "facebook"
+}
+{ 
+    "_id" : ObjectId("5b399f26279d6713160671a9"), 
+    "date_created" : ISODate("2018-07-02T03:42:30.416+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "test@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "Dang Tran", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$7IONMVpRGoEnyh7f5eTYOuAUW8IQD2ABM4qBYjM0R3DI2HJNwJiOy"
+}
+{ 
+    "_id" : ObjectId("5b39a068279d6713160671aa"), 
+    "date_created" : ISODate("2018-07-02T03:47:52.406+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "123@13.com", 
+    "mobile" : "", 
+    "full_name" : "Dang Tran", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$DuPmg71gS3yHeTdcUj0BO.Z9Fp8chSDo4DGCFgZWQnvgc5R71BRBK"
+}
+{ 
+    "_id" : ObjectId("5b39a0be279d6713160671ab"), 
+    "date_created" : ISODate("2018-07-02T03:49:17.806+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "123@123.com", 
+    "mobile" : "", 
+    "full_name" : "Ddsa Dsad", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$0rPI8sAnyU.aN0DnOzNWiuj5zOs85oxQE7ZWAZ/FlEBGuDcjkGO8q"
+}
+{ 
+    "_id" : ObjectId("5b39a1a5279d6713160671ac"), 
+    "date_created" : ISODate("2018-07-02T03:53:08.858+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "123@1234.com", 
+    "mobile" : "", 
+    "full_name" : "Dang Tran", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$oh/3GQ5bw/fFmzeKP7jRn.EXvxrHCkbIbbwMWDEj6O2EiySHXf5PW"
+}
+{ 
+    "_id" : ObjectId("5b39a205279d6713160671ad"), 
+    "date_created" : ISODate("2018-07-02T03:54:44.774+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "1234@123.com", 
+    "mobile" : "", 
+    "full_name" : "Dang Tran", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$ea/.y1F3U2nW5ygvnQJVQ.Z.nH5t7FcwNL.vE6VI2MgQPu5flNgjG"
+}
+{ 
+    "_id" : ObjectId("5b39a252279d6713160671ae"), 
+    "date_created" : ISODate("2018-07-02T03:56:02.547+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(1), 
+    "note" : "", 
+    "email" : "1234@1234.com", 
+    "mobile" : "", 
+    "full_name" : "Dang Tran", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$jNJXpqAOi0tTLvtw7fUrD.Y77vdtQTlOhvb9VQ/AOzgaDYrCOWglm"
+}
+{ 
+    "_id" : ObjectId("5b39a2da279d6713160671b3"), 
+    "date_created" : ISODate("2018-07-02T03:58:18.159+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "123@11.com", 
+    "mobile" : "", 
+    "full_name" : "Dan Da", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$yNnxTgqi5w1gk.o66odR2ukZqneIyV.cW1WsPRHt/kQj3.FB2JQWW"
+}
+{ 
+    "_id" : ObjectId("5b39a318279d6713160671b4"), 
+    "date_created" : ISODate("2018-07-02T03:59:20.516+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "11@11.com", 
+    "mobile" : "", 
+    "full_name" : "Dan Dan", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$.1c/GppObXXy9X8JyqNNf.Ki7KwRcGe8/A4RQ7tv3MwYV5wDs2Y9m"
+}
+{ 
+    "_id" : ObjectId("5b39a33e279d6713160671b5"), 
+    "date_created" : ISODate("2018-07-02T03:59:58.709+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(3), 
+    "note" : "", 
+    "email" : "112@11.com", 
+    "mobile" : "", 
+    "full_name" : "Das Dsad", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$B3uszpeHWuMaDIs0hTLFou3KZHE21H4Fc6M3JLHcTegRBbK.tDVSu"
+}
+{ 
+    "_id" : ObjectId("5b39a4a4279d6713160671c2"), 
+    "date_created" : ISODate("2018-07-02T04:05:56.155+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "11@123.com", 
+    "mobile" : "", 
+    "full_name" : "Dang Tran", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$AblAa55EzraF1.yTY7SB8uA7PtNEhQF9cmhhyt7.J/Xc3C6aPphXC"
+}
+{ 
+    "_id" : ObjectId("5b39a4fa279d6713160671c3"), 
+    "date_created" : ISODate("2018-07-02T04:07:21.816+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "113@11.com", 
+    "mobile" : "", 
+    "full_name" : "123 3213", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$I.HhDiF.havChlCUs1UfDunEloIPp/bjGT7idIPq71K3IwqQYShfi"
+}
+{ 
+    "_id" : ObjectId("5b39a547279d6713160671c4"), 
+    "date_created" : ISODate("2018-07-02T04:08:39.285+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "114@11.com", 
+    "mobile" : "", 
+    "full_name" : "Dsad Dsad", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$04zaJ5oO4DT7ztHnc1hboOL..iXeDhNK.98X0bBIcr4w2l2DjxKtO"
+}
+{ 
+    "_id" : ObjectId("5b39a5b0279d6713160671c5"), 
+    "date_created" : ISODate("2018-07-02T04:10:24.584+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "115@11.com", 
+    "mobile" : "", 
+    "full_name" : "Dfghj Fghj", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$O8Eg0SiYxJOZo.c5ATyNJuVruuZ32R3nnrVVw2KcF/iHlQAXT/7ki"
+}
+{ 
+    "_id" : ObjectId("5b39aa38279d6713160671c6"), 
+    "date_created" : ISODate("2018-07-02T04:29:43.919+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "12@11.com", 
+    "mobile" : "", 
+    "full_name" : "Dsad Dsad", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$EWsQoOAxhuaQduTn3ikvXOfuFzdRvZ6jkrEjwciM/ZZG1vbCLER9e"
+}
+{ 
+    "_id" : ObjectId("5b39aaa7279d6713160671c7"), 
+    "date_created" : ISODate("2018-07-02T04:31:35.172+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "116@11.com", 
+    "mobile" : "", 
+    "full_name" : "dsad Dsad", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$5EeAFn0eIOsHzn2N6.c7mu6TGiJn9JK6QjugxhG5icOn8XiwbBOBq"
+}
+{ 
+    "_id" : ObjectId("5b39abb2279d6713160671c8"), 
+    "date_created" : ISODate("2018-07-02T04:36:02.205+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "aa@11.com", 
+    "mobile" : "", 
+    "full_name" : "Aaa Aaa", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$MPrZxq/CkWSFOht.Xhvf8.WOm/XIt0/DDF5okB06XgOqsqgpO/4IK"
+}
+{ 
+    "_id" : ObjectId("5b39ac4b279d6713160671c9"), 
+    "date_created" : ISODate("2018-07-02T04:38:34.811+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "kk@11.com", 
+    "mobile" : "", 
+    "full_name" : "Kkkkkk Kkk", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$oLjzwa1gjb6pkDcFCOgnTO3amgZot4Bc4fyqx5TRNiyP6TNFH3U4m"
+}
+{ 
+    "_id" : ObjectId("5b5485710ced066d593a8245"), 
+    "date_created" : ISODate("2018-07-22T13:24:01.242+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(3), 
+    "note" : "", 
+    "email" : "minhtruong315@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "truong", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$/.KmaCfd2ga3jTC9t7gvP.NS8IEJyy8AfZrXDPNc4pTdIihyredai"
+}
+{ 
+    "_id" : ObjectId("5b548b5359354c7c54c0e708"), 
+    "date_created" : ISODate("2018-07-22T13:49:07.469+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "a@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "a", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$49zHuOTgvD8c.yR2/.xY..bOpMeQuZSXVOTVlEBczNOBnAGNLb9ae"
+}
+{ 
+    "_id" : ObjectId("5b6ef0e02f1cb474dfb2999f"), 
+    "date_created" : ISODate("2018-08-11T14:21:20.445+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "kk@kk.com", 
+    "mobile" : "", 
+    "full_name" : "Gg Hj", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$M6davlnh2bqJDKuGD5RXBe/SJpBMekrhXG5aC7oNA4hKbOPReeZKS"
+}
+{ 
+    "_id" : ObjectId("5b80d16316199e3b935cfe0b"), 
+    "date_created" : ISODate("2018-08-25T03:47:47.516+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "email" : "senvungoc@gmail.com", 
+    "full_name" : "ngoc sen", 
+    "socialId" : "101663735966147277871", 
+    "socialType" : "google"
+}
+{ 
+    "_id" : ObjectId("5b8fdbe5966e2e06f1f913af"), 
+    "date_created" : ISODate("2018-09-05T13:36:37.491+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "email" : "minhcasi@yahoo.com", 
+    "full_name" : "Minh Pham", 
+    "socialId" : "10158783125545405", 
+    "socialType" : "facebook"
+}
+{ 
+    "_id" : ObjectId("5b8ff24c966e2e06f1f913b6"), 
+    "date_created" : ISODate("2018-09-05T15:12:12.042+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "email" : "rcfernandez@hotmail.com", 
+    "full_name" : "Machu Ra", 
+    "socialId" : "1961725900553032", 
+    "socialType" : "facebook"
+}
+{ 
+    "_id" : ObjectId("5b907d2d966e2e06f1f913b9"), 
+    "date_created" : ISODate("2018-09-06T01:04:45.567+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "b@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "B B", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$QW4qF9UxDB7c2qx9cDOile2v.gbLbGOQK8cLkVX17B02//As27Zu."
+}
+{ 
+    "_id" : ObjectId("5b907e07966e2e06f1f913ba"), 
+    "date_created" : ISODate("2018-09-06T01:08:22.942+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "c@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "C C", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$qIZX18KEIYa.C/dyqVoRreNk8ZZLKNHQW7q8CDUqEM8k2JSNTt0xu"
+}
+{ 
+    "_id" : ObjectId("5b907ef0966e2e06f1f913bb"), 
+    "date_created" : ISODate("2018-09-06T01:12:16.716+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "d@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "D D", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$U2jDVZRrCFxXFYvSYLvJReO0y9/3QWgdK.GwyfWw0v0h6z74zMN6i"
+}
+{ 
+    "_id" : ObjectId("5b907f52966e2e06f1f913bc"), 
+    "date_created" : ISODate("2018-09-06T01:13:54.738+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "e@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "E E", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$io1D2DjyXKVqHV8zI5hoG.BNK.hDxBqxta2D0JWy0YYdfXxuIJY8m"
+}
+{ 
+    "_id" : ObjectId("5b907ff7966e2e06f1f913bd"), 
+    "date_created" : ISODate("2018-09-06T01:16:39.546+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "f@gmail.com", 
+    "mobile" : "", 
+    "full_name" : "F F", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$pAQt5uxJ6hJLQv1FIK8s9.EJ.cnjhFpIvAtv0E/BReNNPpTCU/7si"
+}
+{ 
+    "_id" : ObjectId("5b927dced4eebd099bce0aac"), 
+    "date_created" : ISODate("2018-09-07T13:31:57.787+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "a", 
+    "mobile" : "", 
+    "full_name" : "a", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$t1Vpev2XUP6dvJnsSK1vUeia487.ddZjk5iBmNPItF2wE7K9suh3e"
+}
+{ 
+    "_id" : ObjectId("5b99aa4c5531a770212f8f68"), 
+    "date_created" : ISODate("2018-09-13T00:07:40.346+0000"), 
+    "date_updated" : null, 
+    "total_spent" : NumberInt(0), 
+    "orders_count" : NumberInt(0), 
+    "note" : "", 
+    "email" : "sanjugj@outlook.com", 
+    "mobile" : "", 
+    "full_name" : "Gj Jo", 
+    "gender" : "", 
+    "group_id" : null, 
+    "tags" : [
+
+    ], 
+    "social_accounts" : [
+
+    ], 
+    "birthdate" : null, 
+    "addresses" : [
+
+    ], 
+    "browser" : {
+        "ip" : "", 
+        "user_agent" : ""
+    }, 
+    "hash" : "$2b$10$Q6UlMfMPijxmkv1QNXqXw.A5eBQS7LsfZ1oVbmNK8jTyJeluvyare"
+}

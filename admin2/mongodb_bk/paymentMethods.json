@@ -1,0 +1,19 @@
+{ 
+    "_id" : ObjectId("5b3119f30dc2051696f9a3fb"), 
+    "name" : "Cash on Delivery", 
+    "description" : "Cash on Delivery", 
+    "position" : NumberInt(0), 
+    "enabled" : true, 
+    "conditions" : {
+        "countries" : [
+
+        ], 
+        "shipping_method_ids" : [
+            ObjectId("5b2b79d8d9581fa18e46ede4"), 
+            ObjectId("5b2b7a04d9581fa18e46ede5")
+        ], 
+        "subtotal_min" : NumberInt(0), 
+        "subtotal_max" : NumberInt(0)
+    }, 
+    "gateway" : ""
+}

@@ -1,0 +1,108 @@
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f43c"), 
+    "slug" : "", 
+    "meta_title" : "Home", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f43d"), 
+    "slug" : "checkout", 
+    "meta_title" : "Checkout", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f43e"), 
+    "slug" : "checkout-success", 
+    "meta_title" : "Thank You!", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f43f"), 
+    "slug" : "cart", 
+    "meta_title" : "Cart", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f440"), 
+    "slug" : "login", 
+    "meta_title" : "Login", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f441"), 
+    "slug" : "logout", 
+    "meta_title" : "Logout", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f442"), 
+    "slug" : "register", 
+    "meta_title" : "Register", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b2b1cbe9123c042bc61f443"), 
+    "slug" : "account", 
+    "meta_title" : "Account", 
+    "enabled" : true, 
+    "is_system" : true
+}
+{ 
+    "_id" : ObjectId("5b4ff7f85e4f9e05dc875eb8"), 
+    "is_system" : false, 
+    "date_created" : ISODate("2018-07-19T02:31:19.933+0000"), 
+    "content" : "", 
+    "meta_description" : "", 
+    "meta_title" : "About", 
+    "enabled" : true, 
+    "tags" : [
+
+    ], 
+    "slug" : "about"
+}
+{ 
+    "_id" : ObjectId("5b4ffc275e4f9e05dc875eb9"), 
+    "is_system" : false, 
+    "date_created" : ISODate("2018-07-19T02:49:11.272+0000"), 
+    "content" : "", 
+    "meta_description" : "", 
+    "meta_title" : "FAQ", 
+    "enabled" : true, 
+    "tags" : [
+
+    ], 
+    "slug" : "faq"
+}
+{ 
+    "_id" : ObjectId("5b50398d5e4f9e05dc875eba"), 
+    "is_system" : false, 
+    "date_created" : ISODate("2018-07-19T07:11:09.748+0000"), 
+    "content" : "", 
+    "meta_description" : "", 
+    "meta_title" : "Contact", 
+    "enabled" : true, 
+    "tags" : [
+
+    ], 
+    "slug" : "contact"
+}
+{ 
+    "_id" : ObjectId("5b50a43a9aac0c0419a48219"), 
+    "is_system" : false, 
+    "date_created" : ISODate("2018-07-19T14:46:18.096+0000"), 
+    "content" : "", 
+    "meta_description" : "", 
+    "meta_title" : "Favorites", 
+    "enabled" : true, 
+    "tags" : [
+
+    ], 
+    "slug" : "favorite"
+}

@@ -1,0 +1,22 @@
+{ 
+    "_id" : ObjectId("5b2b1d479123c042bc61f446"), 
+    "domain" : "http://cestore.inspireui.com", 
+    "logo_file" : null, 
+    "language" : "en", 
+    "currency_code" : "USD", 
+    "currency_symbol" : "$", 
+    "currency_format" : "${amount}", 
+    "thousand_separator" : ",", 
+    "decimal_separator" : ".", 
+    "decimal_number" : NumberInt(2), 
+    "timezone" : "Asia/Singapore", 
+    "date_format" : "MMMM D, YYYY", 
+    "time_format" : "h:mm a", 
+    "default_shipping_country" : "SG", 
+    "default_shipping_state" : "", 
+    "default_shipping_city" : "", 
+    "default_product_sorting" : "stock_status,price,position", 
+    "weight_unit" : "kg", 
+    "length_unit" : "cm", 
+    "hide_billing_address" : false
+}

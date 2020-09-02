@@ -7,10 +7,10 @@ const FooterWidgets = () => (
             <h4 className="widget-title">Contact us</h4>
             <div className="widget_content">
                 <p>Call us 24/7</p>
-                <h3>1800 00000000</h3>
+                <h3>98 00000000</h3>
                 <p>
-                    502 New Design Str, Melbourne, Australia <br />
-                    <a href="mailto:contact@martfury.co">contact@asklol.co</a>
+                    {/* 502 New Design Str, Melbourne, Australia <br />
+                    <a href="mailto:contact@martfury.co">contact@asklol.co</a> */}
                 </p>
                 <ul className="ps-list--social">
                     <li>

@@ -1,0 +1,100 @@
+{ 
+    "_id" : ObjectId("5b2b79d8d9581fa18e46ede4"), 
+    "name" : "Free Shipping", 
+    "description" : "Free Shipping", 
+    "position" : NumberInt(0), 
+    "enabled" : true, 
+    "price" : NumberInt(0), 
+    "conditions" : {
+        "countries" : [
+
+        ], 
+        "states" : [
+
+        ], 
+        "cities" : [
+
+        ], 
+        "subtotal_min" : NumberInt(0), 
+        "subtotal_max" : NumberInt(0), 
+        "weight_total_min" : NumberInt(0), 
+        "weight_total_max" : NumberInt(0)
+    }, 
+    "fields" : [
+        {
+            "key" : "full_name", 
+            "label" : "", 
+            "required" : true
+        }, 
+        {
+            "key" : "address1", 
+            "label" : "", 
+            "required" : true
+        }, 
+        {
+            "key" : "address2", 
+            "label" : "", 
+            "required" : false
+        }, 
+        {
+            "key" : "postal_code", 
+            "label" : "", 
+            "required" : false
+        }, 
+        {
+            "key" : "phone", 
+            "label" : "", 
+            "required" : false
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5b2b7a04d9581fa18e46ede5"), 
+    "name" : "Flat Rate", 
+    "description" : "Flat Rate", 
+    "position" : NumberInt(0), 
+    "enabled" : true, 
+    "price" : NumberInt(5), 
+    "conditions" : {
+        "countries" : [
+
+        ], 
+        "states" : [
+
+        ], 
+        "cities" : [
+
+        ], 
+        "subtotal_min" : NumberInt(0), 
+        "subtotal_max" : NumberInt(0), 
+        "weight_total_min" : NumberInt(0), 
+        "weight_total_max" : NumberInt(0)
+    }, 
+    "fields" : [
+        {
+            "key" : "full_name", 
+            "label" : "", 
+            "required" : true
+        }, 
+        {
+            "key" : "address1", 
+            "label" : "", 
+            "required" : true
+        }, 
+        {
+            "key" : "address2", 
+            "label" : "", 
+            "required" : false
+        }, 
+        {
+            "key" : "postal_code", 
+            "label" : "", 
+            "required" : false
+        }, 
+        {
+            "key" : "phone", 
+            "label" : "", 
+            "required" : false
+        }
+    ]
+}

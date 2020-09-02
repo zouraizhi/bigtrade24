@@ -1,0 +1,90 @@
+{ 
+    "_id" : ObjectId("5b2c660ccdb2ff05c726740b"), 
+    "date_created" : ISODate("2018-06-22T02:59:24.510+0000"), 
+    "date_updated" : ISODate("2018-08-16T10:17:06.452+0000"), 
+    "image" : "banner-bag.png", 
+    "name" : "Bags", 
+    "description" : "", 
+    "meta_description" : "", 
+    "meta_title" : "Bags", 
+    "enabled" : true, 
+    "sort" : "", 
+    "parent_id" : null, 
+    "position" : NumberInt(4), 
+    "slug" : "bags"
+}
+{ 
+    "_id" : ObjectId("5b2c6633cdb2ff05c726740c"), 
+    "date_created" : ISODate("2018-06-22T03:00:03.012+0000"), 
+    "date_updated" : ISODate("2018-08-16T10:17:02.096+0000"), 
+    "image" : "banner-jacket.png", 
+    "name" : "Jackets", 
+    "description" : "", 
+    "meta_description" : "", 
+    "meta_title" : "Jackets", 
+    "enabled" : true, 
+    "sort" : "", 
+    "parent_id" : null, 
+    "position" : NumberInt(5), 
+    "slug" : "jackets"
+}
+{ 
+    "_id" : ObjectId("5b2c6659cdb2ff05c726740d"), 
+    "date_created" : ISODate("2018-06-22T03:00:41.656+0000"), 
+    "date_updated" : ISODate("2018-08-16T10:16:58.685+0000"), 
+    "image" : "banner-jean.png", 
+    "name" : "Jeans", 
+    "description" : "", 
+    "meta_description" : "", 
+    "meta_title" : "Jeans", 
+    "enabled" : true, 
+    "sort" : "", 
+    "parent_id" : null, 
+    "position" : NumberInt(6), 
+    "slug" : "jeans"
+}
+{ 
+    "_id" : ObjectId("5b2c6674cdb2ff05c726740e"), 
+    "date_created" : ISODate("2018-06-22T03:01:08.113+0000"), 
+    "date_updated" : ISODate("2018-08-16T10:16:54.074+0000"), 
+    "image" : "banner-shirt.png", 
+    "name" : "Shirts", 
+    "description" : "", 
+    "meta_description" : "", 
+    "meta_title" : "Shirts", 
+    "enabled" : true, 
+    "sort" : "", 
+    "parent_id" : null, 
+    "position" : NumberInt(7), 
+    "slug" : "shirts"
+}
+{ 
+    "_id" : ObjectId("5b2c6683cdb2ff05c726740f"), 
+    "date_created" : ISODate("2018-06-22T03:01:23.305+0000"), 
+    "date_updated" : ISODate("2018-08-16T10:16:49.721+0000"), 
+    "image" : "banner-shoe.png", 
+    "name" : "Shoes", 
+    "description" : "", 
+    "meta_description" : "", 
+    "meta_title" : "Shoes", 
+    "enabled" : true, 
+    "sort" : "", 
+    "parent_id" : null, 
+    "position" : NumberInt(8), 
+    "slug" : "shoes"
+}
+{ 
+    "_id" : ObjectId("5b2c66a4cdb2ff05c7267410"), 
+    "date_created" : ISODate("2018-06-22T03:01:56.581+0000"), 
+    "date_updated" : ISODate("2018-08-16T10:16:44.589+0000"), 
+    "image" : "banner-tshirt.png", 
+    "name" : "T-Shirts", 
+    "description" : "", 
+    "meta_description" : "", 
+    "meta_title" : "T-Shirts", 
+    "enabled" : true, 
+    "sort" : "", 
+    "parent_id" : null, 
+    "position" : NumberInt(9), 
+    "slug" : "t-shirts"
+}
